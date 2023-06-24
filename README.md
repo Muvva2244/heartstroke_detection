@@ -1,2 +1,2 @@
 # heartstroke_detection
-using Machine learning algorithms and real time  Detecting heart stroke
+using Machine learning algorithms and real time Data Detecting heart stroke
